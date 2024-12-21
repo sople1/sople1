@@ -1,5 +1,6 @@
 ### Hi there 👋
 - Resume(한국어) https://s-n.kr/resume
+- Blog for Tech(한국어) https://sople1.github.io
 
 <!--
 **sople1/sople1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
